@@ -1,3 +1,8 @@
+/*
+CIRCUIT
+https://www.tinkercad.com/things/hiIZq2KfcHl-cool-kup
+*/
+
 int pinR = 6;
 int pinB = 5;
 int pinG = 3;
